@@ -4,6 +4,8 @@ Kullanılan veri tabanı:  [Postgresql](https://www.postgresql.org/) (pgAdmin4)
 
 Kullanılan veri tabanı kaynağı: [Dvdrental](https://www.postgresqltutorial.com/postgresql-sample-database/)
 
+<br>
+
 Ödevde istenilenler;
 * film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 * film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
