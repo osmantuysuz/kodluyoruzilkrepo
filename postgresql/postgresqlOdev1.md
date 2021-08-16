@@ -42,3 +42,4 @@ Kullanılan veri tabanı kaynağı: [Dvdrental](https://www.postgresqltutorial.c
 ### 5 - customer tablosunda bulunan first_name sütunundaki değeri 'Mary' olan müşterinin last_name sütunundaki değeri nedir?
 
 ![PostreSql Ödev 1-5](https://raw.githubusercontent.com/osmantuysuz/kodluyoruzilkrepo/main/img/postgreSql%20Ödev-1/sqlOdev1-5.png)
+
