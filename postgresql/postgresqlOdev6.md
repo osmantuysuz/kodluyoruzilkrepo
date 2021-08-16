@@ -1,4 +1,4 @@
-# **Postgreslq Odevi 1**
+# **Postgreslq Odevi 6**
 
 Kullanılan veri tabanı:  [Postgresql](https://www.postgresql.org/) (pgAdmin4)
 
