@@ -1,0 +1,16 @@
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\bin\Debug\net5.0\donguler.exe
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\bin\Debug\net5.0\donguler.deps.json
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\bin\Debug\net5.0\donguler.runtimeconfig.json
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\bin\Debug\net5.0\donguler.runtimeconfig.dev.json
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\bin\Debug\net5.0\donguler.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\bin\Debug\net5.0\ref\donguler.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\bin\Debug\net5.0\donguler.pdb
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\obj\Debug\net5.0\donguler.csproj.AssemblyReference.cache
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\obj\Debug\net5.0\donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\obj\Debug\net5.0\donguler.AssemblyInfoInputs.cache
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\obj\Debug\net5.0\donguler.AssemblyInfo.cs
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\obj\Debug\net5.0\donguler.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\obj\Debug\net5.0\donguler.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\obj\Debug\net5.0\ref\donguler.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\obj\Debug\net5.0\donguler.pdb
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\donguler\obj\Debug\net5.0\donguler.genruntimeconfig.cache
