@@ -1,0 +1,16 @@
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\bin\Debug\net5.0\recursive-metotlar.exe
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\bin\Debug\net5.0\recursive-metotlar.deps.json
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\bin\Debug\net5.0\recursive-metotlar.runtimeconfig.json
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\bin\Debug\net5.0\recursive-metotlar.runtimeconfig.dev.json
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\bin\Debug\net5.0\recursive-metotlar.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\bin\Debug\net5.0\ref\recursive-metotlar.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\bin\Debug\net5.0\recursive-metotlar.pdb
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\obj\Debug\net5.0\recursive-metotlar.csproj.AssemblyReference.cache
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\obj\Debug\net5.0\recursive-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\obj\Debug\net5.0\recursive-metotlar.AssemblyInfoInputs.cache
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\obj\Debug\net5.0\recursive-metotlar.AssemblyInfo.cs
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\obj\Debug\net5.0\recursive-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\obj\Debug\net5.0\recursive-metotlar.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\obj\Debug\net5.0\ref\recursive-metotlar.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\obj\Debug\net5.0\recursive-metotlar.pdb
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\recursive-metotlar\obj\Debug\net5.0\recursive-metotlar.genruntimeconfig.cache
