@@ -1,0 +1,16 @@
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\bin\Debug\net5.0\metot-overloading.exe
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\bin\Debug\net5.0\metot-overloading.deps.json
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\bin\Debug\net5.0\metot-overloading.runtimeconfig.json
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\bin\Debug\net5.0\metot-overloading.runtimeconfig.dev.json
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\bin\Debug\net5.0\metot-overloading.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\bin\Debug\net5.0\ref\metot-overloading.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\bin\Debug\net5.0\metot-overloading.pdb
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\obj\Debug\net5.0\metot-overloading.csproj.AssemblyReference.cache
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\obj\Debug\net5.0\metot-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\obj\Debug\net5.0\metot-overloading.AssemblyInfoInputs.cache
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\obj\Debug\net5.0\metot-overloading.AssemblyInfo.cs
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\obj\Debug\net5.0\metot-overloading.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\obj\Debug\net5.0\metot-overloading.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\obj\Debug\net5.0\ref\metot-overloading.dll
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\obj\Debug\net5.0\metot-overloading.pdb
+C:\Users\osman\Desktop\git bash ile git temel komutları\kodluyoruzilkrepo\C#\pratikler\metot-overloading\obj\Debug\net5.0\metot-overloading.genruntimeconfig.cache
